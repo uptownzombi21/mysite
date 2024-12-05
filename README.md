@@ -14,7 +14,7 @@ This website is hosted using GitHub Pages. It’s designed to help me share my p
 
 ## How to View
 
-You can view the website by visiting [https://uptownzombie21.github.io/mysite].
+You can view the website by visiting [https://uptownzombi21.github.io/mysite].
 
 ## Getting Started
 
