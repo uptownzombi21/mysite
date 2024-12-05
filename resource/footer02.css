@@ -1,0 +1,25 @@
+/* Footer Styles */
+footer {
+  background-color: #333; /* Dark background */
+  color: white; /* Light text color */
+  text-align: center; /* Center align the text */
+  padding: 10px 0; /* Vertical spacing */
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  font-size: 0.9rem; /* Slightly smaller text */
+}
+
+/* Sticky Footer */
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  flex: 1; /* Push footer to the bottom */
+}
