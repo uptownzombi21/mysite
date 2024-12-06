@@ -18,6 +18,18 @@ You can view the website by visiting [https://uptownzombi21.github.io/mysite].
 
 ## Getting Started
 
-1. Clone the repository:
+1. Create a branch
+   
+3. Clone the repository branch:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone --branch branch-name https://github.com/uptownzombi21/mysite.git
+
+4. Pull changes
+   ```bash
+   git pull
+
+5. Edit the code
+
+6. Push Changes
+   ```bach
+   git push
