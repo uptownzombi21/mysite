@@ -1,3 +1,4 @@
 body {
-    cursor: url(Normalv4.cur'), auto; /* 'custom-cursor.png' is the path to your cursor image */
+    cursor: url('Normalv4.cur'), auto; /* Corrected the single quote */
   }
+  
